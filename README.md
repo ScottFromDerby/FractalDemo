@@ -4,4 +4,4 @@
 
 Multi-threaded pure SDL shader-free Mandlebrot generator.
 
-[FractalDemo_1.zip for Windows 64bit](https://github.com/ScottFromDerby/FractalDemo/releases/download/release_1/FractalDemo_1.zip)
+[Latest release for Windows 64bit](https://github.com/ScottFromDerby/FractalDemo/releases)
